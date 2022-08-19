@@ -15,11 +15,11 @@
 
 
 # 학습 주제
-## 📝 기술 질문 (Technical Question)
+<!--## 📝 기술 질문 (Technical Question)
 
 ## ✅  기본 질문 (Basic Question)
 
 ## 🗣 언어 질문 (Language Question)
 
-## 🧠 CS 질문 (Computer Science)
+## 🧠 CS 질문 (Computer Science)-->
 
