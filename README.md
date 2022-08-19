@@ -9,14 +9,16 @@
 # 👨‍💻 스터디원
 | 이름   | GitHub                                         |
 | ------ | ---------------------------------------------- |
-| 홍길동 | [@Songwonseok](https://github.com/Songwonseok) |
-| 김박사 | [@akstlrdlsms](https://github.com/akstlrdlsms) |
+| 유청규 | [dbcjdrb@gmail.com](https://github.com/whathe-downtown) |
+| 임수진 | [sjoo0002@gmail.com](https://github.com/akstlrdlsms) |
 | 사람인 | [@namdh9011](https://github.com/namdh9011) |
 
 
 # 학습 주제
-<!--## 📝 기술 질문 (Technical Question)
-
+ 📝 기술 질문 (Technical Question)
+- 4대 컴포넌트
+- 코루틴 플로우(Coroutine Flow)
+<!--##
 ## ✅  기본 질문 (Basic Question)
 
 ## 🗣 언어 질문 (Language Question)
