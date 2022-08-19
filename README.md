@@ -17,7 +17,7 @@
 # 학습 주제
  📝 기술 질문 (Technical Question)
 - <a href="https://tinyurl.com/2f8d6rlk">4대 컴포넌트</a>
-- <a href="https://tinyurl.com/2ob78jzn">코루틴 플로우(Coroutine Flow)</a>
+- <a href="https://tinyurl.com/2jevy6y6">코루틴 플로우(Coroutine Flow)</a>
 <!--##
 ## ✅  기본 질문 (Basic Question)
 
