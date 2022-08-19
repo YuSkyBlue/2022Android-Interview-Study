@@ -10,14 +10,14 @@
 | 이름   | GitHub                                         |
 | ------ | ---------------------------------------------- |
 | 유청규 | [dbcjdrb@gmail.com](https://github.com/whathe-downtown) |
-| 임수진 | [sjoo0002@gmail.com](https://github.com/akstlrdlsms) |
+| 임수진 | [sjoo0002@gmail.com](https://github.com/sujin-kk) |
 | 사람인 | [@namdh9011](https://github.com/namdh9011) |
 
 
 # 학습 주제
  📝 기술 질문 (Technical Question)
 - <a href="https://tinyurl.com/2f8d6rlk">4대 컴포넌트</a>
-- <a href="https://tinyurl.com/2jevy6y6">코루틴 플로우(Coroutine Flow)</a>
+- <a href="https://tinyurl.com/2ob78jzn">코루틴 플로우(Coroutine Flow)</a>
 <!--##
 ## ✅  기본 질문 (Basic Question)
 
