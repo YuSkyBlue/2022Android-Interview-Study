@@ -11,7 +11,7 @@
 | ------ | ---------------------------------------------- |
 | 유청규 | [dbcjdrb@gmail.com](https://github.com/whathe-downtown) |
 | 임수진 | [sjoo0002@gmail.com](https://github.com/sujin-kk) |
-| 사람인 | [@namdh9011](https://github.com/namdh9011) |
+| 유현석 | [asxe48002@gmail.com](https://github.com/namdh9011) |
 
 
 # 학습 주제
