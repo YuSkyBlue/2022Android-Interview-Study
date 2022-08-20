@@ -15,13 +15,19 @@
 
 
 # 학습 주제
- 📝 기술 질문 (Technical Question)
+## 📝 기술 질문 (Technical Question)
 - <a href="https://tinyurl.com/2f8d6rlk">4대 컴포넌트</a>
 - <a href="https://tinyurl.com/2ob78jzn">코루틴 플로우(Coroutine Flow)</a>
+
+
+## 📌 입사 들어가기 전에 ...
+- 
 <!--##
 ## ✅  기본 질문 (Basic Question)
 
 ## 🗣 언어 질문 (Language Question)
 
 ## 🧠 CS 질문 (Computer Science)-->
+
+
 
