@@ -12,7 +12,7 @@
 | 유청규 | [dbcjdrb@gmail.com](https://github.com/whathe-downtown) |
 | 임수진 | [sjoo0002@gmail.com](https://github.com/sujin-kk) |
 | 유현석 | [asxe48002@gmail.com](https://github.com/namdh9011) |
-| 유현석 | [mimwin105903@gmail.com](https://github.com/namdh9011) |
+| 기 | [mimwin105903@gmail.com](https://github.com/mimwin) |
 
 
 # 학습 주제
