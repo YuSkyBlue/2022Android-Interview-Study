@@ -19,7 +19,7 @@
 ## 📝 기술 질문 (Technical Question)
 - <a href="https://github.com/whathe-downtown/2022Android-Interview-Study/blob/main/%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8/%EA%B8%B0%EC%88%A0%EC%A7%88%EB%AC%B8/4%EB%8C%80%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.md">4대 컴포넌트</a>
 - <a href="https://github.com/whathe-downtown/2022Android-Interview-Study/blob/main/%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8/%EA%B8%B0%EC%88%A0%EC%A7%88%EB%AC%B8/%EC%BD%94%EB%A3%A8%ED%8B%B4%ED%94%8C%EB%A1%9C%EC%9A%B0.md">코루틴 플로우(Coroutine Flow)</a>
-- <a href="https://github.com/whathe-downtown/2022Android-Interview-Study/blob/main/%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0.md"></a>
+- <a href="https://github.com/whathe-downtown/2022Android-Interview-Study/blob/main/%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0.md">생명주기</a>
 
 
 ## 📌 입사 들어가기 전에 ...
