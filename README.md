@@ -25,9 +25,11 @@
 ## 📌 입사 들어가기 전에 ...
 - <a href="https://tinyurl.com/2p2xg5ak">신입 기준 개인 프로젝트 준비 시</a>
 - <a href="https://tinyurl.com/2o2yyrda">[면접 시 주의❗️] & [사수에게 잘 보이는 법😏] </a>
-<!--##
+
 ## ✅  기본 질문 (Basic Question)
 - 대기업 면접시 질문 리스트 
+
+<!--##
 ## 🗣 언어 질문 (Language Question)
 
 ## 🧠 CS 질문 (Computer Science)-->
