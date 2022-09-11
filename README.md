@@ -27,7 +27,7 @@
 - <a href="https://tinyurl.com/2o2yyrda">[면접 시 주의❗️] & [사수에게 잘 보이는 법😏] </a>
 
 ## ✅  기본 질문 (Basic Question)
-- 대기업 면접시 질문 리스트 
+- <a href="https://github.com/whathe-downtown/2022Android-Interview-Study/blob/main/%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8/%EB%8C%80%EA%B8%B0%EC%97%85%EB%A9%B4%EC%A0%91%EC%8B%9C.md">대기업 면접시 질문 리스트 </a>
 
 <!--##
 ## 🗣 언어 질문 (Language Question)
